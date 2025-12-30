@@ -24,7 +24,7 @@ It focuses on contract tracking, accommodation readiness, and pilgrim distributi
 
 ## Sample Dashboard Output
 📎 See the full dashboard PDF:
-[Hajj Power BI Dashboard](Powerbi Project.pdf)
+[Hajj Power BI Dashboard (PDF)](./Powerbi%20Project.pdf)
 
 ## DAX Measures Included
 Key DAX measures used in this project:
