@@ -1,0 +1,14 @@
+SWITCH(
+TRUE();
+CONTAINSSTRING(
+SELECTEDVALUE(‘القدوم - استعداد’[نوع العقد]);
+“الرفادة”
+);
+“#7A1F2B”;
+CONTAINSSTRING(
+SELECTEDVALUE(‘القدوم - استعداد’[نوع العقد]);
+“رفاد”
+);
+“#6A1B9A”;
+“#BDBDBD”
+)
