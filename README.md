@@ -35,11 +35,16 @@ Key DAX measures used in this project:
 Detailed DAX code can be found in the `/dax` folder.
 
 
-### KPIs View
-![KPIs](KPI images/kpis.png)
-
 ## Skills Demonstrated
 - Data analysis and KPI design
 - DAX measures and calculations
 - Data visualization best practices
 - Dashboard storytelling for decision makers
+
+
+## Sample Dashboard Output
+
+![Dashboard Overview](KPI images/overview.png)
+
+### KPIs View
+![KPIs](KPI images/kpis.png)
