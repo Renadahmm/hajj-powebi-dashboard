@@ -42,9 +42,3 @@ Detailed DAX code can be found in the `/dax` folder.
 - Dashboard storytelling for decision makers
 
 
-## Sample Dashboard Output
-
-![Dashboard Overview](KPI images/overview.png)
-
-### KPIs View
-![KPIs](KPI images/kpis.png)
